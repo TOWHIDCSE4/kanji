@@ -113,6 +113,8 @@ const KanjiDetail = props => {
           </li>
         </ul>
       </footer>
+    <h2 style={{ fontSize: '16px', color: '#ccc' }}>
+    © 2025 <span style={{ color: '#fff', fontWeight: 'bold' }}>Towhid</span>. All rights reserved.</h2>
     </>
   );
 
