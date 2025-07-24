@@ -2,6 +2,9 @@
   "name": "catalog-of-statistics",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "@testing-library/user-event": "^7.1.2",
     "history": "^4.10.1",
